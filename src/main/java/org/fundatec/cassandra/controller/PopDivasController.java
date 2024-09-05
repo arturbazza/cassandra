@@ -12,7 +12,7 @@ import java.util.Optional;
 import java.util.UUID;
 
 @RestController
-@RequestMapping("/api/divas/")
+@RequestMapping("/api/divas")
 public class PopDivasController {
 
     @Autowired

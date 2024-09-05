@@ -10,7 +10,6 @@ import org.springframework.data.cassandra.core.mapping.Table;
 import java.util.UUID;
 
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
 @Table("pop_divas")
 public class PopDivas {
